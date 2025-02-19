@@ -46,6 +46,8 @@ button:hover {
     background-color: #388e3c; /* Un tono más oscuro al pasar el mouse */
 }
 
+label {
+    display: none;}
 
 @font-face {
     font-family: 'LiberatonSans-Italic';

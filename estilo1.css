@@ -28,10 +28,13 @@ body {
 }
 
 img{
-    width: 150px;
+    width: 200px;
     height: auto;
 }
+label {
+    display: none;
 
+}
 .contenedor {
     display: flex;
     flex-direction: column; /* Apila los elementos verticalmente */
